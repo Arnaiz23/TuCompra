@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TuCompra",
+    "slug": "TuCompra",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
